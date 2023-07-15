@@ -85,8 +85,6 @@ The React Three.js T-Shirt Designer project relies on the following dependencies
 - Three.js: JavaScript 3D library for creating and displaying animated 3D computer graphics.
 - DALEE: Deep Artificial Evolutionary Learning Engine for generating AI images.
 - react-color: A collection of color pickers for React.
-- react-dropzone: Simple React component for handling file uploads.
-- react-router-dom: React library for handling navigation and routing.
 
 For a complete list of dependencies and their versions, please refer to the `package.json` file in the project repository.
 
